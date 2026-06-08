@@ -58,3 +58,9 @@ The project structure is organized as follows:
 
 - <b>client:</b> Frontend React application.
 - <b>server:</b> Backend Express.js application.<br><br>
+
+-----------
+END.
+
+`:wq
+
